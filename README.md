@@ -4,6 +4,3 @@ Coursera test repository
 <b>Hello Test</b>
 <ol>
 <li>I'm very hungry!<li>
-
-
-
