@@ -17,13 +17,13 @@ h1 {
 }
 
 
-.box{
+.box {
   width: 100%;
   overflow: none;
 }
 
 
-.content-name{
+.content-name {
   overflow: none;
   text-align: center;
   border: 4px solid black;
@@ -37,7 +37,7 @@ h1 {
   position: relative;
 }
 
-.content{
+.content {
   border: 5px solid black;
   width: 90%;
   height: auto;
@@ -49,15 +49,15 @@ h1 {
   background-color: paleturquoise;
 }
 
-.nm1{
+.nm1 {
   background-color: hotpink;
 }
 
-.nm2{
+.nm2 {
   color: white;
   background-color: lightsalmon;
 }
-.nm3{
+.nm3 {
   background-color: greenyellow;
 }
 
