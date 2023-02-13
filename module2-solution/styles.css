@@ -30,12 +30,12 @@ h1 {
 .content-name{
   overflow: none;
   text-align: center;
-  border: 3px solid black;
+  border: 4px solid black;
   width: 100px;
   height: 40px;
   padding: 5px;
   float: right;
-  margin-right: 30px;
+  margin-right: 36px;
   margin-top: 0px;
   font-weight: bold;
   position: relative;
