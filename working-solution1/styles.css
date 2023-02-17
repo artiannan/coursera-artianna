@@ -41,7 +41,7 @@ section {
 	overflow: auto;
 }
 
-#chicken {
+.liang {
 	border: 1px solid black;
 	text-align: center;
 	width: 30%;
@@ -55,7 +55,7 @@ section {
 	background-color: #FFFF00;
 }
 
-#beef {
+.tofu {
 	border: 1px solid black;
 	text-align: center;
 	width: 30%;
@@ -69,7 +69,7 @@ section {
 	background-color: #FF1439;
 }
 
-#sushi {
+.pho {
 	border: 1px solid black;
 	text-align: center;
 	width: 30%;
