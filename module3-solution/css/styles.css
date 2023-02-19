@@ -4,3 +4,10 @@ body {
   background-color: #61122f;
   font-family: 'Oxygen', sans-serif;
 }
+
+/** HEADER **/
+#header-nav {
+  background-color: paleturquoise;
+  border-radius: 0;
+  border: 0;
+}
