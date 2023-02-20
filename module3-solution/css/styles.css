@@ -118,7 +118,7 @@ section {
 }
 
 .nav-header {
-  background-color: #FFFFFF;
+  background-color: #e7dddd;
 }
 
 .nav-brand {
@@ -127,15 +127,15 @@ section {
 }
 
 #nav-list {
-  color: white;
+  color: rgb(235, 199, 199);
 }
 
 hr {
-  border-color: rgb(236, 204, 204);
+  border-color: rgb(200, 157, 157);
 }
 
 .item {
-  color: white;
+  color: rgb(180, 178, 178);
   font-size: 1.2em;
 }
 
