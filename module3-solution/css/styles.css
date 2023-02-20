@@ -29,12 +29,12 @@ p {
 }
 
 section {
-	border:	1px solid black;
+	border:	2px solid black;
 	background-color: #35a8b2;
   box-shadow: 0 0 50px #3F0C1F;
 	width: 100%;
 	height: auto;
-	font-family: Helvetica;
+	font-family: Lucida Sans Regular;
 	color: black;
 	position: relative;
 	overflow: auto;
