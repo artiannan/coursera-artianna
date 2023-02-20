@@ -15,7 +15,7 @@ body {
 }
 
 p {
-	padding: 10px;
+	padding: 15px;
 	margin: 0;
 }
 
@@ -50,7 +50,7 @@ section {
 	margin-bottom: 0;
 	margin-top: 0;
 	padding: 5px;
-	background-color: #b2bb37;
+	background-color: #ca895b;
 }
 
 #beef {
@@ -105,7 +105,7 @@ section {
 
 #header-nav {
   border: 0;
-  background-color: hotpink;
+  background-color: rgb(249, 133, 191);
   color: #FFFFFF;
 }
 
