@@ -31,7 +31,7 @@ p {
 section {
 	border:	2px solid black;
 	background-color: #35a8b2;
-  box-shadow: 0 0 50px #78a7cd;
+  box-shadow: 0 0 25px #78a7cd;
 	width: 100%;
 	height: auto;
 	font-family: arial;
