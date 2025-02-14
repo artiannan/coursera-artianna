@@ -1,5 +1,5 @@
 # Artianna's Hub
-Coursera test repository
+Let's build some pages!
 <div>
 <b>Welcome to my Hub</b>
 <ol>
