@@ -1,7 +1,7 @@
 # Artianna's Hub
 Coursera test repository
 <div>
-<b>Hello Test</b>
+<b>Welcome to my Hub</b>
 <ol>
-<li>Let's have lunch!
-<li>Eat sushi!
+<li>Let's network
+<li>Let's succeed
