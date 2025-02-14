@@ -1,4 +1,4 @@
-# coursera-artianna
+# Artianna's Hub
 Coursera test repository
 <div>
 <b>Hello Test</b>
